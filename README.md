@@ -1,5 +1,5 @@
 # Triple-Threat-ML
-ML Repo for Class Project
+ML Repository for Class Project
 
 Datasets:
 
