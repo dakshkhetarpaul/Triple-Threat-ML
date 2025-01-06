@@ -3,7 +3,7 @@ ML Repository for Class Project, Team Triple Threat ML
 
 Datasets:
 
-Gold Price Regression:
+(2) Gold Price Regression:
  https://www.kaggle.com/datasets/franciscogcc/financial-data
 
 Summary: The time-series dataset tracks financial and economic trends over time of gold. It spans from 2010 to 2024, showing how these factors interact over different economic cycles. Data points come in various time intervals: daily, monthly, and trimonthly, which offer a good look at financial patterns.
@@ -12,7 +12,7 @@ Motivation: Gold is interesting because it tends to hold its value when other in
 
 Task Choice: Given the nature of the data and the goal to explore how different factors influence gold prices, regression would be a good task. It can help predict future prices based on historical values and other financial indicators.
 
-Guava Fruit Disease Classification: https://www.kaggle.com/datasets/asadullahgalib/guava-disease-dataset
+(3)Guava Fruit Disease Classification: https://www.kaggle.com/datasets/asadullahgalib/guava-disease-dataset
 
 Summary: The data set is comprised of 3,784 preprocessed and augmented RGB images of guava fruits, uniformly resized to 512 by 512 in PNG format. The images have three distinct classifications: Anthracnose, Fruit Flies, and Healthy Fruits. The dataset originally included 473 annotated images collected from guava orchards in Rajshahi and Pabna, Bangladesh, during the fruit-ripening season in July which is the period in which guava fruits are most susceptible to diseases. They also had a plant pathologist validate the accuracy of the classifications, which help to ensure the reliability of the data set. 
 
@@ -20,7 +20,7 @@ Motivation: Guava is an important crop in South Asia, as it contributes signific
 
 Task Choice: The primary machine learning task here is Image Classification. This task will involve training a supervised learning model to accurately categorize guava fruit images into one of the three classes: Anthracnose, Fruit Flies, or Healthy Fruits. Image classification is obvious here as it allows for the development of models that can discern subtle visual differences.
 
-Phishing Email Detection: 
+(4) Phishing Email Detection: 
 https://www.kaggle.com/datasets/subhajournal/phishingemails
 
 
@@ -34,7 +34,7 @@ This involves training a supervised learning model to accurately categorize emai
 
 
 
-Spotify Dataset:
+(1) Spotify Dataset:
 https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs
 
 Summary: This dataset is tabular and contains comprehensive information on some of the most streamed songs on Spotify, enriched with additional insights from other popular streaming platforms like Apple Music, Deezer, and Shazam. It has 953 samples and 25 columns.
